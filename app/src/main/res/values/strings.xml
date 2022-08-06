@@ -1,0 +1,7 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">tour</string>
+=======
+    <string name="app_name">template</string>
+>>>>>>> 64eb46e80af774d0d1304df02aa8d6ef7f8d5c4b
+</resources>
